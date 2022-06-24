@@ -1,4 +1,5 @@
 google.com, pub-8405254493226727, DIRECT, f08c47fec0942fa0
+google.com, pub-6062645508050699, DIRECT, f08c47fec0942fa0
 lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
