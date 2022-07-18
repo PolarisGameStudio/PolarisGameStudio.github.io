@@ -212,7 +212,7 @@ opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
 opera.com, pub6584435113344, DIRECT, 55a0c5fd61378de3
 
 #facebook
-#facebook.com, 4583353228391099, RESELLER, c3e20eee3f780d68
+facebook.com, 4583353228391099, DIRECT, c3e20eee3f780d68
 
 #vungle
 vungle.com, 62d1af7d8a0a06001bc26bfa, DIRECT, c107d686becd2d77
