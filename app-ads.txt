@@ -112,6 +112,7 @@ Pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 
 #is
 ironsrc.com, 244282, Direct
